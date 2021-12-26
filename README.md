@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @NSchegolev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Это пробный проект для понимания работы GIT HUB!
 
-<!---[README.md](https://github.com/NSchegolev/NSchegolev/files/7776951/README.md)
+## Использование технологии
 
-NSchegolev/NSchegolev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- HTML
+- CSS
+- Tekla Open API
+
+[ссылка на мою команду](https://lenmontage.ru/directions/project-department)
