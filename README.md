@@ -3,7 +3,7 @@
 ## Аналитика данных для расчетных моделей металлических конструкций
 -Jupyter Notebook
 ###  Работа в Tekla Open API на языках  
--Pyton
+- Pyton
 - C#
 - HTML
 - CSS
